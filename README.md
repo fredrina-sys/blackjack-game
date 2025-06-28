@@ -30,12 +30,6 @@ A web-based implementation of the classic Blackjack card game using **HTML**, **
 - **CSS** – Visual styling and layout
 - **JavaScript** – Game logic and interactivity
 
-## 🎬 Game in Action
-
-See the Blackjack game in action below:
-
-![Blackjack Game Demo](images/Demo.png)
-
 ## 🧪 Run It Yourself
 
 1. Clone this repository:
